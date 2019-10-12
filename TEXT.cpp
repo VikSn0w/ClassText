@@ -1,4 +1,4 @@
-#include "classHead.h"
+#include "TEXT.h"
 /*
 void TEXTFIELD::SetSize(int Width, int Height)
 {
