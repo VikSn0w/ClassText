@@ -6,20 +6,10 @@ Per la loro variante più chiara basta aggiungere una B[right] davanti: RED --->
 
 Basic inludes
 
-#include <iostream>
-#include <cstdlib>
-#include <iomanip>
-#include <ctime>
-#include <cmath>
+* #include <conio.h>
+* #include <stdio.h>
+* #include <windows.h>
+* #include <Wincon.h>
+* #include <stdlib.h>
+* #include <stdio.h>
 
-#include <conio.h>
-#include <stdio.h>
-#include <windows.h>
-#include <Wincon.h>
-
-#include <fstream>
-#include <string>
-#include <stdlib.h>
-#include <stdio.h>
-#include <cstdlib>
-#include <sstream>
